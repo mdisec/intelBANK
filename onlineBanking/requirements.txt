@@ -1,0 +1,6 @@
+MySQL + apache + php
+
+you have to turn short_open_tag = On at php.ini file
+
+you have to add 127.0.0.1  intelbank to your host file. that's required for some JS codes.
+
